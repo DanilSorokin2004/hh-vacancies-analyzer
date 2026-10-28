@@ -80,7 +80,7 @@ python -m streamlit run app/dashboard.py
 ## 📸 Скриншоты
 
 ### Дашборд
-![Дашборд](img/dashboard.png)
+![Дашборд](img/Dashboard.png)
 
 ## 📄 Лицензия
 
